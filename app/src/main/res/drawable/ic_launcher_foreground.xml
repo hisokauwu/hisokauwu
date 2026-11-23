@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Remolque -->
+    <path android:fillColor="#F2F2F2" android:pathData="M24,46h38v24h-38z" />
+    <path android:fillColor="#3C78C8" android:pathData="M24,46h38v5h-38z" />
+    <!-- Cabina -->
+    <path android:fillColor="#C8322B" android:pathData="M64,52h11l8,9v12h-19z" />
+    <path android:fillColor="#26384A" android:pathData="M68,55h6l5,6h-11z" />
+    <path android:fillColor="#2A2A2E" android:pathData="M24,70h59v4h-59z" />
+    <!-- Ruedas -->
+    <path android:fillColor="#1C1C1E" android:pathData="M32,76m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path android:fillColor="#1C1C1E" android:pathData="M44,76m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path android:fillColor="#1C1C1E" android:pathData="M76,76m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path android:fillColor="#B8BCC2" android:pathData="M32,76m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0M44,76m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0M76,76m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>
